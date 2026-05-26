@@ -1,10 +1,3 @@
-<div align="center">
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Kushal+Mandala;Senior+iOS+Engineer+%7C+Mobile+Lead;Swift+%2F+SwiftUI+Specialist+%7C+Objective-C;React+Native+%7C+15%2B+Years+of+Excellence;Aspiring+Agentic+AI+Director" alt="Typing SVG" /></a>
-
-</div>
-
----
 
 ## 🧑‍💻 About Me
 
