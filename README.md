@@ -5,7 +5,6 @@ I am a seasoned **Principal iOS Engineer and Mobile Team Lead** with **15+ years
 
 I specialize in **Swift, SwiftUI, UIKit, Objective-C, React Native**, scalable architecture, CI/CD automation, performance optimization, and secure mobile engineering. I am currently expanding into **Agentic AI** and intelligent mobile experiences.
 
-- 🏢 **Senior iOS Engineer** @ 7-Eleven, Irving, Texas
 - 🎖️ **Dronacharya Award** – DBS Bank | **Best Team Lead & Team Builder** – Nunc Systems
 - 📱 Delivered enterprise mobile apps reaching **100K+ users**
 - ⚡ Improved app performance by **35%**, reduced production bugs by **40%**
