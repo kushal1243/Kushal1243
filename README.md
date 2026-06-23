@@ -1,7 +1,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a seasoned **Principal iOS Engineer and Mobile Team Lead** with **15+ years of experience** building secure, scalable, high-availability mobile applications across **finance, healthcare, automotive, logistics, telecom, and e-commerce** domains.
+I am a seasoned **Principal iOS Engineer and Mobile Engineering Lead** with **15+ years of experience** building secure, scalable, high-availability mobile applications across **finance, healthcare, automotive, logistics, telecom, and e-commerce** domains.
 
 I specialize in **Swift, SwiftUI, UIKit, Objective-C, React Native**, scalable architecture, CI/CD automation, performance optimization, and secure mobile engineering. I am currently expanding into **Agentic AI** and intelligent mobile experiences.
 
